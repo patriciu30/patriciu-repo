@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="index" type="PLAIN_TEXT" />
+      <mapping ext="state" type="PLAIN_TEXT" />
+      <mapping ext="iim" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="beans" type="XML" />
+      <mapping ext="ditamap" type="XML" />
+      <mapping ext="xconf" type="XML" />
+      <mapping ext="xbeans" type="XML" />
+      <mapping ext="dita" type="XML" />
+      <mapping ext="rsd" type="XML" />
+    </extensionMap>
+  </component>
+</application>

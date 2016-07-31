@@ -1,0 +1,19 @@
+<filetype binary="false" description="Drools Rule Language Files" name="DRL files">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="attributes;declare;duration;enabled;end;expander;function;global;import;package;query;rule" ignore_case="false" />
+    <keywords2 keywords="activation-group;agenda-group;auto-focus;date-effective;date-expires;dialect;no-loop;rule-flow-group;salience;then;when" />
+    <keywords3 keywords="!=;&amp;&amp;;,;&lt;;&lt;=;==;&gt;;&gt;=;and;collect;contains;exists;forall;from;in;matches;memberOf;not;or;||" />
+    <keywords4 keywords="$;:;accumulate;action;eval;false;init;insert;insertLogical;new;null;result;reverse;true" />
+  </highlighting>
+</filetype>
